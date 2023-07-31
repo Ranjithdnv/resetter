@@ -31,7 +31,7 @@ function Home() {
           <h1 key={index}>{movie.title}</h1>
         ))}
       </div>
-      <div>raaaaaaaaaaaaaaa</div>
+      <div>raaaaaaaaaaaaaaa</div> <div>raaaaaaaaaaaaaaa</div> <div>raaaaaaaaaaaaaaa</div> <div>raaaaaaaaaaaaaaa</div>
       <Link to="login">hi</Link>
     </div>
   );
